@@ -1,5 +1,5 @@
 {
-  "name": "@cloudflare-apps/create-cloudflare-app",
+  "name": "@cloudflare-apps/create-cloudflare-app282906",
   "version": "1.0.0",
   "description": "Cloudflare Apps boilerplate featuring DNS powered by Webpack and Babel",
   "scripts": {
